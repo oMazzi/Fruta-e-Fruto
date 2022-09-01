@@ -1,0 +1,63 @@
+.sobre{
+    padding: 2.5rem;
+    text-align: center;
+}
+
+.sobreTitulo, .quemSomosTitulo{
+    font-family: Pacifico, cursive;
+    font-size: 51px;
+    color: #8D0606;
+    margin-bottom: 20px;
+    font-weight: 370;
+}
+
+.sobreDescricao{
+    color: #8C8888;
+    font-size: 1.75rem;
+    font-weight: 300;
+    margin: 0 140px 0 140px;
+}
+
+.quemSomos {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.pessoas {
+    display: inline-block;
+    padding: 4rem;
+}
+
+.pessoasNome{
+    font-family: Pacifico, cursive;
+    font-size: 2rem;
+    color: #8D0606;
+    margin-bottom: 20px;
+    font-weight: 370;
+    padding-top: 1rem;
+}
+
+.pessoasFuncao{
+    color: #8C8888;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.contato{
+    background: #c4c4c4;
+    padding: 32px 0 32px 0;
+}
+
+.contatoLink{
+    font-size: 32px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 350;
+    position: relative;
+    padding-left: 1200px;
+}
+
+.pessoasImagem{
+    border-radius: 100%;
+}
